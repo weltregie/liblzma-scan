@@ -1,3 +1,6 @@
+# List of IOC hashes  
+# Source: https://valhalla.nextron-systems.com/info/rule/BCKDR_XZUtil_Binary_CVE_2024_3094_Mar24_1
+#
 f50ee33bab6abc93164577ca80f111d77595659842920d04a4d22e184f675d14
 c292bc94bb3a4d631ee458b22d633268e0a74733838f4b8638cd164bf150c9c5
 fcd4d1ba8a4def4e7178c27513a2897001019722f131efe7c4f6b940f231071b
